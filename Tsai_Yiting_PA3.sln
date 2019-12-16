@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsai_Yiting_PA3", "Tsai_Yiting_PA3\Tsai_Yiting_PA3.csproj", "{9AE7A359-05EA-4830-9146-0C2B969517CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE7A359-05EA-4830-9146-0C2B969517CE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9AE7A359-05EA-4830-9146-0C2B969517CE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9AE7A359-05EA-4830-9146-0C2B969517CE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9AE7A359-05EA-4830-9146-0C2B969517CE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
